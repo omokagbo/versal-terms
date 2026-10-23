@@ -14,7 +14,9 @@ title: Versal Terms & Conditions
 # Versal Terms & Conditions
 
 **Effective date:** October 20, 2026
+
 **Developer:** Emmanuel Omokagbo
+
 **Contact:** emmanuel.omokagbo@gmail.com
 
 By downloading or using Versal, you agree to these terms. If you do not agree, do not use the app.
